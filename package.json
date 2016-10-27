@@ -1,8 +1,8 @@
 {
-  "name": "angular-universal-render",
+  "name": "angular2-universal-render",
   "version": "0.0.1",
   "description": "Renderer of Angular application on Node",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "example": "webpack --config webpack.config.example.js && node ./example/rendering",
     "test": "webpack && mocha ./test/index.js"
